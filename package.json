@@ -1,0 +1,22 @@
+{
+  "name": "shritask2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.html",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yandex-shri-minsk-2019/task-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/yandex-shri-minsk-2019/task-2#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
